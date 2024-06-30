@@ -34,7 +34,7 @@ On the right, are two main sections. The upper section provides the weather meas
 
 ## Credits
 
-This project wouldn't have been completed without the aid of demonstrations and assignments provided by the UCI Bootcamp teaching staff. Moreover, this project wouldn't have been possible without the weather information provided by OpenWeather API. 
+This project wouldn't have been completed without the aid of demonstrations and assignments provided by the UCI Bootcamp teaching staff. Moreover, this project wouldn't have been possible without the starter code provided by staff under the project title miniature-eureka. The Github repository can be found [here](https://github.com/coding-boot-camp/miniature-eureka.git).
 
 ## License
 
