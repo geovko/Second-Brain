@@ -8,7 +8,7 @@
 
 ## Description
 
-In a fast-paced lifestyle where one is flooded with many different situations and tasks to complete, keeping track of all your thoughts and tasks can be a challenge. This project aims to provide the user with a note-taking webpage or a second brain, if you will, to help them track of everything that pops up.
+In a fast-paced lifestyle where one is flooded with many different situations and tasks to complete, keeping track of all your thoughts and tasks can be a challenge. This project aims to provide the user with a note-taking webpage or a second brain, if you will, to help them keep track of everything that pops up.
 
 ## Usage
 
