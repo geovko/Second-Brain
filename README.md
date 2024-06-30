@@ -8,29 +8,23 @@
 
 ## Description
 
-This webpage is designed to aid a traveler with planning their trip by providing a weather outlook multiple cities. Throughout the development process, I gained a lot of experience working with different APIs and 'fetching' the necessary data. 
+In a fast-paced lifestyle where one is flooded with many different situations and tasks to complete, keeping track of all your thoughts and tasks can be a challenge. This project aims to provide the user with a note-taking webpage or a second brain, if you will, to help them track of everything that pops up.
 
 ## Usage
 
-To open the website portfolio, click this link here to go directly!
+To open the webpage, click this link here to go directly!
 
-[Weather Dashboard](https://geovko.github.io/weather-dashboard/)
+[Second Brain: Note Taker](https://geovko.github.io/Second-Brain/)
 
 *OR* Copy this link to paste it into a browser.
   ```md
-https://geovko.github.io/weather-dashboard/
+https://geovko.github.io/Second-Brain/
   ```
 
 
 ![screenshot of weather dashboard](assets/images/weather-dashboard.png)
 
-Since an empty screen doesn't seem as inviting, the webpage is preset to load weather data from Seattle, WA (my hometown). 
-
-On the left, is an area to input a city name. Once the 'Search' button is clicked the page will load the related weather information. Please note, this webpage utilizes the information provided by the OpenWeather API. As such, if the inputted city is not available in its system, it will find the data provided by the nearest available city in its system. Moreover, if that are differences in spellings, the webpage will approximate the inputted city name.
-
-Right below is a list of past searches made by the user. The amount of past searches displayed is limited to 10, and will remove the oldest search item once the amount surpasses that number. The past search listings are also clickable and will provide the weather information of the chosen city when clicked. 
-
-On the right, are two main sections. The upper section provides the weather measurements taken at the current moment. The lower section provides a forecast of the following 5 days.
+(Add instructions)
 
 ## Credits
 
