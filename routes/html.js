@@ -1,4 +1,9 @@
-// return notes.html
+const pages = require("express").Router();
 
+// Get /notes returns notes.html
+pages.get("/notes", (req, res) => {});
 
-// return index.html
+// Get * returns index.html
+pages.get("/", (req, res) => {});
+
+module.exports = pages;
