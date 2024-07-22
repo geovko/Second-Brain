@@ -2,7 +2,7 @@
   
 # Second Brain: Note Taker
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -14,13 +14,13 @@ In a fast-paced lifestyle where one is flooded with many different situations an
 
 To open the webpage, click this link here to go directly!
 
-[Second Brain: Note Taker](https://geovko.github.io/Second-Brain/)
+[Second Brain: Note Taker](https://geovko.github.io/Second-Brain/public/index.html)
 
-*OR* Copy this link to paste it into a browser.
-  ```md
+_OR_ Copy this link to paste it into a browser.
+
+```md
 https://geovko.github.io/Second-Brain/
-  ```
-
+```
 
 ![screenshot of weather dashboard](assets/images/weather-dashboard.png)
 
