@@ -1,10 +1,8 @@
 const router = require("express").Router();
 
-// Import modular routers for /html and /api
-const htmlRouter = require("./html");
-const apiRouter = require("./api");
+// Import modular routers for /api
+const notesRouter = require("./notes");
 
-router.use("/html", htmlRouter);
-router.use("/api", apiRouter);
+router.use("/notes", notesRouter);
 
 module.exports = router;
