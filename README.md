@@ -14,7 +14,7 @@ In a fast-paced lifestyle where one is flooded with many different situations an
 
 To open the webpage, click this link here to go directly!
 
-[Second Brain: Note Taker](https://geovko.github.io/Second-Brain/public/index.html)
+[Second Brain: Note Taker](https://geovko.github.io/Second-Brain/public/)
 
 _OR_ Copy this link to paste it into a browser.
 
