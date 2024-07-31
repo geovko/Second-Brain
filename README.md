@@ -22,9 +22,17 @@ _OR_ Copy this link to paste it into a browser.
 https://second-brain-4ay7.onrender.com
 ```
 
-![screenshot of weather dashboard](assets/images/weather-dashboard.png)
+![screenshot of Website's starting page](images/note-taker-starting.png)
 
-(Add instructions)
+Once the user clicks on the provided link, the webpage shown above will appear (albeit slowly). Press the 'Get Started' button in the middle to proceed to the notes page.
+
+![screenshot of Website's main page](images/note-taker-notes.png)
+
+After pressing the button, the page shown above will appear. Click on the areas labled 'Note Title' and 'Note Text' to input the title and text of the desired note to be inputted.
+
+![screenshot of Website, close-up of the functions](images/note-taker-input.png)
+
+Once the text areas are filled, the 'Clear' and 'Save' options will appear. 'Clear' will empty the text areas, while 'Save' will save the inputted texts and generate it on the left side of the screen. The user can then click on the small red trash can icon on the left (adjacent to the note they wish to delete) to remove that specific note.
 
 ## Credits
 
