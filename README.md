@@ -24,7 +24,7 @@ https://second-brain-4ay7.onrender.com
 
 ![screenshot of Website's starting page](images/note-taker-starting.png)
 
-Once the user clicks on the provided link, the webpage shown above will appear (albeit slowly). Press the 'Get Started' button in the middle to proceed to the notes page.
+Once you click on the provided link, the webpage shown above will appear (albeit slowly). Press the 'Get Started' button in the middle to proceed to the notes page.
 
 ![screenshot of Website's main page](images/note-taker-notes.png)
 
