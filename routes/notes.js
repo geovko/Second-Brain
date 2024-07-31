@@ -24,7 +24,7 @@ notes.post("/", (req, res) => {
       const prevNotes = JSON.parse(data);
       prevNotes.push(req.body);
       fs.writeFile("./db/db.json", JSON.stringify(prevNotes), (err, data) => {
-        console.log('File appended successfully!');
+        console.log("File appended successfully!");
       });
     }
   });
@@ -32,5 +32,20 @@ notes.post("/", (req, res) => {
 
 // BONUS: DELETE /api/notes/:id
 // reads all notes from db.json and removes the note with the given id property
+notes.delete("/:id", (req, res) => {
+  fs.readFile("./db/db.json", "utf8", (err, data) => {
+    if (err) {
+      console.error(err);
+    } else {
+      const { id } = req.params;
+      const prevNotes = JSON.parse(data);
+      const revised = prevNotes.filter((note) => note.title != id);
+
+      fs.writeFile("./db/db.json", JSON.stringify(revised), (err, data) => {
+        console.log("File revised successfully!");
+      });
+    }
+  });
+});
 
 module.exports = notes;
